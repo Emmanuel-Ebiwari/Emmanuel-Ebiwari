@@ -28,6 +28,6 @@ I'm a passionate developer focused on building performant and maintainable web a
 ### 📫 Let’s Connect
 
 - Portfolio: [emmanuel-ebiwari.vercel.app](https://emmanuel-ebiwari.vercel.app)  
-- Email: **emmanuelebiawari@gmail.com**  
-- LinkedIn: [linkedin.com/in/emmanuel-ebiwari](https://www.linkedin.com/in/emmanuel-ebiwari)
+- Email: **ebiwariemma@gmail.com**  
+- LinkedIn: [linkedin.com/in/emmanuel-ebiwari](https://www.linkedin.com/in/emmanuel-ebiwari-9898051a9)
 
