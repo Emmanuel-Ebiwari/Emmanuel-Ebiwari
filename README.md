@@ -1,48 +1,38 @@
-# 👋 Hi, I'm Emmanuel Ebiwari
+<h1 align="center">Hi there, I'm Emmanuel 👋</h1>
 
-I'm a **Full Stack Developer** with strong experience in building scalable, user-centric applications using **React**, **Next.js**, **Node.js**, **MySQL**, and **MongoDB**. I focus on delivering clean, maintainable code and seamless user experiences across web platforms.
-
----
-
-## 💼 What I Do
-
-- 🌐 **Frontend**: React.js, Next.js, TailwindCSS, Ant Design
-- ⚙️ **Backend**: Node.js, Express.js
-- 🧠 **Database**: MySQL, MongoDB
-- 🧩 **Architecture**: REST APIs, Context API, Redux, Module Federation
-- 🛠️ **Tools**: Git, VS Code, Postman, Sequelize, SWR
-- 📦 **Dev Practices**: Lazy loading, SSR/SSG, Component reusability, API integration
-- 🌍 **CMS**: WordPress (for client flexibility and dynamic content management)
+<p align="center">
+  Full Stack Developer • Clean Code Advocate • Lifelong Learner
+</p>
 
 ---
 
-## 🔍 What Sets Me Apart
+### 🧑‍💻 About Me
 
-- 🧩 Modular approach to building apps with **scalable folder structures**
-- 🔄 Proficient in **state management and context-driven architecture**
-- 🛠️ Ability to **debug complex issues** (e.g., lazy loading with module federation, SWR strategy consolidation)
-- 🧠 Thoughtful about **performance optimization**, such as using `scrollIntoView`, avoiding unnecessary HOC re-renders, and efficient query structuring
-- 🤝 Strong communication with clients, particularly in **WhatsApp & RCS template logic**, opt-in flows, and message personalization
+I'm a passionate developer focused on building performant and maintainable web applications using:
 
----
-
-## 🧠 Fun Facts
-
-- 💬 I enjoy deep dives into **MongoDB aggregations** and **context-driven data flows**
-- ⚙️ I prefer understanding **root causes** over installing libraries blindly
-- 🛠️ I believe a clean UI starts with **clean logic** behind it
-- 💡 I'm continuously exploring opportunities in **Web3 and tech ventures**
+- **Frontend:** React, Next.js, TailwindCSS, Ant Design  
+- **Backend:** Node.js, Express, Sequelize  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, SWR, Module Federation, Context API
 
 ---
 
-## 📫 Let’s Connect
+### 🚀 What I’m Working On
 
-- 📧 **Email**: emmanuelebiawari@gmail.com  
-- 🌐 [**Portfolio Website**](https://emmanuel-ebiwari.vercel.app)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/emmanuel-ebiwari)
+- Improving my architecture with **module federation & lazy loading**
+- Creating **reusable, context-aware** components
+- Exploring ways to make **data flow smoother and smarter**
 
 ---
 
-> “Code is like poetry—it’s best when it flows smoothly and means something.”
+### 📫 Let’s Connect
 
+- Portfolio: [emmanuel-ebiwari.vercel.app](https://emmanuel-ebiwari.vercel.app)  
+- Email: **emmanuelebiawari@gmail.com**  
+- LinkedIn: [linkedin.com/in/emmanuel-ebiwari](https://www.linkedin.com/in/emmanuel-ebiwari)
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Ebiwari&show_icons=true&theme=default" alt="Emmanuel's GitHub stats" width="400"/>
+</p>
