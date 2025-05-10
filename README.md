@@ -31,8 +31,3 @@ I'm a passionate developer focused on building performant and maintainable web a
 - Email: **emmanuelebiawari@gmail.com**  
 - LinkedIn: [linkedin.com/in/emmanuel-ebiwari](https://www.linkedin.com/in/emmanuel-ebiwari)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Ebiwari&show_icons=true&theme=default" alt="Emmanuel's GitHub stats" width="400"/>
-</p>
